@@ -2,6 +2,8 @@
 VideoConfero is a cutting-edge video conferencing website that enables seamless and high-quality communication for individuals and teams around the world. With a user-friendly interface and robust features, VideoConfero is designed to enhance collaboration, foster remote connections, and facilitate productive meetings.
 
 HOW TO RUN::
+
+
 To run this code in Visual Studio Code, you'll need to follow these steps:
 
 Open Visual Studio Code and create a new JavaScript file with a .js extension, for example, videoConferenceServer.js.
