@@ -13,12 +13,17 @@ Copy and paste the JavaScript code you provided into the videoConferenceServer.j
 Install the required dependencies by opening the integrated terminal in Visual Studio Code (press Ctrl+`or go toView>Terminal>New Terminal`).
 
 In the terminal, navigate to the directory where your JavaScript file is located, using the cd command. For example, if your file is in the Desktop directory, you can use:
+
+
 <cd Desktop>
 
 Install the websocket library by running the following command in the terminal:
+
+
 <npm install websocket>
 
 Once the installation is complete, you can run the WebSocket server by executing the JavaScript file with Node.js. In the terminal, run the following command:
+
 
 <node videoConferenceServer.js>
 This will start the server, and you should see a message indicating that the server is listening on port 1337.
